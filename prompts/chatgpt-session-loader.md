@@ -62,7 +62,9 @@ Then continue directly into the requested task.
 
 Task:
 [INSERT TASK HERE]
-Usage
+```
+
+## Usage
 
 Copy the Session Loader Prompt section into a new ChatGPT session when starting CYNKRONAI-related work.
 
