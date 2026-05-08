@@ -1,204 +1,180 @@
-# 🧠 CYNKRONAI Kernel
-
+# 🧠 CYNKRONAI Kernel  
 **Universal Prompt Kernel for Sovereign AI Systems**
 
 ---
 
-## 🚀 Overview
-
-The **CYNKRONAI Kernel** is a universal instruction layer designed to standardize how AI agents operate across platforms.
+## 🚀 Overview  
+The **CYNKRONAI Kernel** is a universal instruction layer that standardizes how AI agents operate across platforms.
 
 It provides a **structured, interoperable prompt framework** for:
+- ChatGPT  
+- Codex  
+- Claude AI  
+- Future AI agents and execution environments  
 
-* ChatGPT
-* Codex
-* Claude AI
-* Future AI agents and execution environments
-
-The kernel ensures:
-
-* consistent outputs
-* modular system design
-* execution-focused responses
-* cross-platform continuity
+### Key Outcomes
+- Consistent outputs  
+- Modular system design  
+- Execution-focused responses  
+- Cross-platform continuity  
 
 ---
 
-## 🧩 Core Purpose
+## 🧩 Core Purpose  
+This repository acts as the **central behavioral layer** for all CYNKRONAI systems:
 
-This repository acts as the **central behavioral layer** for all CYNKRONAI systems, including:
-
-* SmartMRI™
-* MindAlignVR™
-* SiddhiQ Codex™
-* THRONiQ™
-* VECTRIX™
-* COVEX™
+- SmartMRI™  
+- MindAlignVR™  
+- SiddhiQ Codex™  
+- THRONiQ™  
+- VECTRIX™  
+- COVEX™  
 
 It defines how AI should:
-
-* think
-* structure outputs
-* generate code
-* design systems
-* maintain continuity
+- think  
+- structure outputs  
+- generate code  
+- design systems  
+- maintain continuity  
 
 ---
 
-## ⚙️ How It Works
+## ⚙️ How It Works  
 
 The kernel is stored in:
-
-```bash
 AGENTS.md
-```
+
 
 This file contains:
+- system instructions  
+- execution rules  
+- response structure  
+- development constraints  
 
-* system instructions
-* execution rules
-* response structure
-* development constraints
-
-It is designed to be:
-
-* reused across projects
-* referenced by AI tools
-* version-controlled and improved over time
+### Design Intent
+- reusable across projects  
+- referenced by AI tools  
+- version-controlled and continuously refined  
 
 ---
 
-## 🏗️ Usage
+## 🏗️ Usage  
 
-### 1. For AI Prompting
-
-* Copy relevant sections into your prompt context
-* Use as a **persistent system instruction layer**
+### 1. AI Prompting  
+- Inject into system prompts or session context  
+- Use as a persistent instruction layer  
 
 ---
 
-### 2. For Development Projects
-
+### 2. Development Projects  
 Include `AGENTS.md` in:
+- frontend repositories  
+- backend systems  
+- AI agent frameworks  
 
-* frontend repos
-* backend systems
-* AI agent frameworks
-
-This ensures all outputs follow the same logic.
-
----
-
-### 3. For Codex / Local Dev
-
-* Store in root directory
-* Reference during generation workflows
-* Use as a behavioral constraint for code generation
+This enforces consistent behavior across builds.
 
 ---
 
-## 🧱 Design Principles
-
-* **Execution over theory**
-* **Structured outputs only**
-* **Modular system architecture**
-* **Interoperability across platforms**
-* **Scalable + API-ready systems**
-* **Clarity over complexity**
+### 3. Codex / Local Development  
+- Place in root directory  
+- Reference during generation workflows  
+- Use as a behavioral constraint for code generation  
 
 ---
 
-## 🔁 Workflow Model
-
-All outputs follow a consistent structure:
-
-1. Answer
-2. Why it matters
-3. Steps (3–5)
-4. Single Next Action
-5. Reality Check
+## 🧱 Design Principles  
+- Execution over theory  
+- Structured outputs only  
+- Modular system architecture  
+- Interoperability across platforms  
+- Scalable + API-ready systems  
+- Clarity over complexity  
 
 ---
 
-## 🔒 Guardrails
+## 🔁 Workflow Model  
 
-* No hallucinated technical claims
-* No fabricated APIs or integrations
-* Clear uncertainty when applicable
-* No manipulative or deceptive logic
-* Respect user sovereignty and agency
+All outputs follow:
+
+1. Answer  
+2. Why it matters  
+3. Steps (3–5)  
+4. Single Next Action  
+5. Reality Check  
 
 ---
 
-## 🧠 System Architecture Context
+## 🔒 Guardrails  
+- No hallucinated technical claims  
+- No fabricated APIs or integrations  
+- Explicit uncertainty when applicable  
+- No manipulative or deceptive logic  
+- Respect user sovereignty and agency  
+
+---
+
+## 🧠 System Architecture Context  
 
 The kernel supports a multi-layered ecosystem combining:
 
-* AI systems
-* neuroscience frameworks
-* XR/MR environments
-* decision intelligence
-* archetypal cognition models
-* decentralized infrastructure
+- AI systems  
+- neuroscience frameworks  
+- XR/MR environments  
+- decision intelligence  
+- archetypal cognition models  
+- decentralized infrastructure  
 
 ---
 
-## 📦 Repository Structure
-
-```bash
+## 📦 Repository Structure  
 cynkronai-kernel/
 │
-├── AGENTS.md      # Universal Prompt Kernel
-├── README.md      # Documentation
-```
+├── AGENTS.md # Universal Prompt Kernel
+├── README.md # Documentation
+
 
 ---
 
-## 🔄 Versioning
+## 🔄 Versioning  
 
-The kernel evolves over time:
+- **v2 → Current stable version**
 
-* v2 → current stable version
-* future updates will include:
-
-  * enhanced agent orchestration
-  * deeper system integrations
-  * automation hooks
+Planned evolution:
+- enhanced agent orchestration (COVEX)  
+- deeper system integrations  
+- automation hooks and execution pipelines  
 
 ---
 
-## 🎯 Objective
+## 🎯 Objective  
 
-To create a **portable, consistent, and execution-driven AI behavior layer** that enables:
+To create a **portable, consistent, execution-driven AI behavior layer** enabling:
 
-* faster builds
-* cleaner outputs
-* scalable architecture
-* unified system intelligence
-
----
-
-## ⚠️ Important Notes
-
-* This repository does not execute code
-* It defines **how AI systems behave**, not what they run
-* Effectiveness depends on correct integration into workflows
+- faster builds  
+- cleaner outputs  
+- scalable architecture  
+- unified system intelligence  
 
 ---
 
-## 🔮 Future Expansion
+## ⚠️ Important Notes  
 
-Planned enhancements:
-
-* agent orchestration layer (COVEX integration)
-* prompt automation pipelines
-* API-linked execution environments
-* DAO / Web3 integration models
+- This repository does not execute code  
+- It defines **AI behavior**, not runtime logic  
+- Effectiveness depends on correct integration into workflows  
 
 ---
 
-## 📍 Status
+## 🔮 Future Expansion  
+
+- COVEX orchestration layer  
+- Prompt automation pipelines  
+- API-linked execution environments  
+- DAO / Web3 integration models  
+
+---
+
+## 📍 Status  
 
 Active development — foundational layer for all CYNKRONAI systems.
-
----
