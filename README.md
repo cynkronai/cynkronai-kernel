@@ -1,6 +1,6 @@
 # 🧠 CYNKRONAI Kernel  
-**Universal Prompt Kernel for Sovereign AI Systems**
 
+**Foundational orchestration layer for interoperable sovereign AI systems within the CYNKRONAI ecosystem.**
 ---
 
 ## 🚀 Overview  
