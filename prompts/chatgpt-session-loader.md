@@ -96,14 +96,3 @@ MCP tools
 project-specific agent configuration
 
 ---
-
-## (2) Why it matters  
-
-This is enough. ✅  
-No more repo expansion today.
-
-## (3) Steps  
-
-1. Create file path:  
-   ```text
-   prompts/chatgpt-session-loader.md
