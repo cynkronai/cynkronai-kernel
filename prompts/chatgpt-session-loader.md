@@ -64,17 +64,25 @@ Task:
 [INSERT TASK HERE]
 ```
 
+---
+
 ## Usage
 
-Copy the Session Loader Prompt section into a new ChatGPT session when starting CYNKRONAI-related work.
+Copy the **Session Loader Prompt** section into a new ChatGPT session when starting CYNKRONAI-related work.
 
 Replace:
 
+```text
 [INSERT TASK HERE]
+```
 
 with the task you want ChatGPT to perform.
 
-Example
+---
+
+## Example
+
+```text
 Load and apply the CYNKRONAI Universal Prompt Kernel from AGENTS.md.
 
 Activate the COVEX Agent Loader.
@@ -83,9 +91,13 @@ Mode: Build
 
 Task:
 Generate a Lovable prompt for the VECTRIX MVP interface with Supabase-ready backend assumptions.
-Notes
+```
 
-This loader does not automatically fetch AGENTS.md.
+---
+
+## Notes
+
+This loader does not automatically fetch `AGENTS.md`.
 
 It acts as a manual boot prompt and assumes the user has already provided, linked, or referenced the kernel context.
 
@@ -96,4 +108,3 @@ For deeper automation, future versions may connect this loader to:
 - API-based context injection
 - MCP tools
 - project-specific agent configuration
-```
