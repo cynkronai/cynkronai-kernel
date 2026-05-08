@@ -89,10 +89,9 @@ It acts as a manual boot prompt and assumes the user has already provided, linke
 
 For deeper automation, future versions may connect this loader to:
 
-GitHub retrieval
-local scripts
-API-based context injection
-MCP tools
-project-specific agent configuration
-
----
+- GitHub retrieval
+- local scripts
+- API-based context injection
+- MCP tools
+- project-specific agent configuration
+```
